@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhiteTorrent</string>
+    <string name="open_file">Открыть .torrent файл</string>
+    <string name="open_link">Открыть magnet ссылку</string>
+    <string name="quit">Выйти</string>
+    <string name="search_hint">Поиск торрентов в сети</string>
+    <string name="add_hint">Добавление нового торрента</string>
+    <string name="exit_hint">Выход</string>
+    <string name="delete_hint">Удаление</string>
+    <string name="file_opening">Идет открытие файла</string>
+
+</resources>

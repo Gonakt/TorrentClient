@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_delete"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_delete_white_24"
+        android:title="@string/delete_hint"
+
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/action_add"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_add_white_24"
+        android:title="@string/add_hint"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/action_quit"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_exit_to_app_white_24"
+        android:title="@string/exit_hint"
+        >
+
+    </item>
+
+</menu>
